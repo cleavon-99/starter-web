@@ -12,3 +12,4 @@ Ang mga tekstong ito ay mga halimbawa lang dahil sa aking pinapanuod na modyuls
 
 ## How To COntribute
 
+2014 Git Training
