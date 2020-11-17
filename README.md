@@ -8,5 +8,7 @@ This is a simple project example bibon toquero
 
 ## Deployment
 
+Ang mga tekstong ito ay mga halimbawa lang dahil sa aking pinapanuod na modyuls
+
 ## How To COntribute
 
